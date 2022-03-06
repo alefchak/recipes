@@ -7,7 +7,7 @@ title: New York Pizza Dough
 
 ## Ingredients
 
-|  %  | Weight (g) | Ingredient |
+%  | Weight (g) | Ingredient
 -|-|-
 100 | 476 | bread flour
 60 | 286 | water

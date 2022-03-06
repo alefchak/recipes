@@ -7,8 +7,8 @@ title: Popovers
 
 ## Ingredients
 
-|  %  | Weight (g) | Ingredient |
--|-|-
+Amount | Ingredient
+-|-
 1 cup | all-purpose flour
 1 cup | whole milk, room temperature
 2 | large eggs, room temperature
