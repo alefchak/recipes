@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pumpkin Cake
+---
+
 # Pumpkin Cake
 
 ## Ingredients

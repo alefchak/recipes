@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chicken in Butter and Garlic Sauce
+---
+
 # Chicken in Butter and Garlic Sauce
 
 ## Ingredients
@@ -5,8 +10,8 @@
 Amount | Ingredient
 -|-
 4 | boneless chicken breasts
-| | Wondra flour
-| | vegetable oil
+- | Wondra flour
+- | vegetable oil
 6 tbsp | butter
 2 cans | clear chicken broth
 1 tbsp | garlic powder

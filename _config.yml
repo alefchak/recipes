@@ -1,0 +1,14 @@
+title: Recipes
+github_username: alefchak
+
+url: https://alefchak.github.io
+baseurl: /recipes
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+collections:
+  recipes:
+    output: true
+    permalink: '/:collection/:path/'

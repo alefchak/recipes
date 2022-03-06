@@ -1,3 +1,8 @@
+---
+layout: default
+title: French Toast
+---
+
 # French Toast
 
 ## Ingredients

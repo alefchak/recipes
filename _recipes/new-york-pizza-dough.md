@@ -1,3 +1,8 @@
+---
+layout: default
+title: New York Pizza Dough
+---
+
 # New York Pizza Dough
 
 ## Ingredients

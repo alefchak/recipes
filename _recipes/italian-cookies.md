@@ -1,3 +1,8 @@
+---
+layout: default
+title: Italian Cookies
+---
+
 # Italian Cookies
 
 ## Ingredients
@@ -23,8 +28,8 @@ Amount | Ingredient
 1 tbsp | shortening
 0.5 cups | milk
 2 tsp | anise extract
-| | food coloring
-| | sprinkles
+- | food coloring
+- | sprinkles
 
 ## Directions
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mock Kishka
+---
+
 # Mock Kishka
 
 ## Ingredients
@@ -10,8 +15,8 @@ Amount | Ingredient
 2 | celery stalks
 1 stick | butter
 2 | eggs
-| | seasoned salt
-| | pepper
+- | seasoned salt
+- | pepper
 
 ## Directions
 

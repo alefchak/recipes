@@ -1,3 +1,8 @@
+---
+layout: default
+title: Honey-Breaded Chicken
+---
+
 # Honey-Breaded Chicken
 
 ## Ingredients

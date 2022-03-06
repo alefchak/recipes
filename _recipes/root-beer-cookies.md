@@ -1,3 +1,8 @@
+---
+layout: default
+title: Root Beer Cookies
+---
+
 # Root Beer Cookies
 
 ## Ingredients

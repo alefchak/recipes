@@ -1,3 +1,8 @@
+---
+layout: default
+title: Granola
+---
+
 # Granola
 
 ## Ingredients
