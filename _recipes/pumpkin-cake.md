@@ -7,18 +7,18 @@ title: Pumpkin Cake
 
 ## Ingredients
 
-Amount | Ingredient
--|-
-2-1/2 cups | all-purpose flour
-1 tsp | baking soda
-1 tsp | baking powder
-2 tsp | ground cinnamon
-1 tsp | salt
-16 oz | canned pumpkin
-1-1/4 cups | vegetable oil
-2 cups | sugar
-4 | eggs
-1 cup | semi-sweet chocolate chips
+% | Weight (g) | Amount | Ingredient
+-|-|-|-
+100 | 400 | 2-1/2 cups | all-purpose flour
+1.5 | 6 | 1 tsp | salt
+1.25 | 5 | 1 tsp | baking soda
+1.25 | 5 | 1 tsp | baking powder
+1.25 | 5 | 2 tsp | ground cinnamon
+112.5 | 450 | 16 oz can | canned pumpkin
+67.5 | 270 | 1-1/4 cups | vegetable oil
+115 | 460 | 2 cups | sugar
+| | | 4 | eggs
+| | | 1 cup | semi-sweet chocolate chips
 
 ## Directions
 
