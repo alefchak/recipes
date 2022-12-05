@@ -17,8 +17,8 @@ title: Pumpkin Cake
 112.5 | 450 | 16 oz can | canned pumpkin
 67.5 | 270 | 1-1/4 cups | vegetable oil
 115 | 460 | 2 cups | sugar
-| | | 4 | eggs
-| | | 1 cup | semi-sweet chocolate chips
+- | - | 4 | eggs
+- | - | 1 cup | semi-sweet chocolate chips
 
 ## Directions
 
