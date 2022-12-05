@@ -17,7 +17,7 @@ title: Soft Pretzels
 2.3 | 20 | fine salt
 2.0 | 17 | sugar
 1.4 | 12 | instant yeast
-- | | pretzel salt
+- | - | pretzel salt
 
 ### Lye Bath
 
