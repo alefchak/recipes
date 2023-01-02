@@ -9,16 +9,16 @@ title: Italian Cookies
 
 ### Cookies
 
-Amount | Ingredient
--|-
-6 | eggs
-1 cup | vegetable oil
-1 cup | sugar
-6 cups | flour
-1/2 cups | milk
-6 tsp | baking powder
-1 tsp | vanilla extract
-1-1/2 tsp | vanilla extract
+% | Weight (g) | Amount | Ingredient
+-|-|-|-
+100 | 975 | 6 cups | flour
+23 | 225 | 1 cup | sugar
+20.5 | 200 | 1 cup | vegetable oil
+13 | 130 | 1/2 cups | milk
+- | - | 2 tbsp | baking powder
+- | - | 1 tbsp | anise extract
+- | - | 1 tsp | vanilla extract
+- | - | 6 | eggs
 
 ### Icing
 
