@@ -26,7 +26,7 @@ Tomato sauce, three cheese blend, pepperoni
 Tomato sauce, three cheese blend, pepperoni, hot honey drizz
 
 ### Buffalo Chicken
-Tomato sauce, three cheese blend, buffalo chicken
+Tomato sauce, three cheese blend, buffalo chicken, red onion
 
 ### Cheeeeeese
 Seasoned ricotta, three cheese blend, parmesan, honey drizz
